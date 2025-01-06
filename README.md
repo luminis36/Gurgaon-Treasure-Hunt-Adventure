@@ -20,7 +20,7 @@ In this adventure, you are an intrepid explorer on the hunt for hidden treasure 
 1. **Run the Game**  
    Make sure you have Python installed. Run the following command in your terminal:
    ```bash
-   python treasure_hunt.py
+   python main.py
    ```
 
 2. **Follow the Prompts**  
